@@ -1,0 +1,12 @@
+F:/Daten/Programmieren/Computer-Grafik/task1/CMakeFiles/ALL_BUILD.dir
+F:/Daten/Programmieren/Computer-Grafik/task1/CMakeFiles/ZERO_CHECK.dir
+F:/Daten/Programmieren/Computer-Grafik/task1/depend/GLFW-3.0.4/CMakeFiles/ALL_BUILD.dir
+F:/Daten/Programmieren/Computer-Grafik/task1/depend/GLFW-3.0.4/src/CMakeFiles/glfw.dir
+F:/Daten/Programmieren/Computer-Grafik/task1/depend/glew-1.10.0/CMakeFiles/glew.dir
+F:/Daten/Programmieren/Computer-Grafik/task1/exercises/example_animals/CMakeFiles/example_animals.dir
+F:/Daten/Programmieren/Computer-Grafik/task1/exercises/example_hello_world/CMakeFiles/example_hello_world.dir
+F:/Daten/Programmieren/Computer-Grafik/task1/exercises/example_memory_fun/CMakeFiles/example_memory_fun.dir
+F:/Daten/Programmieren/Computer-Grafik/task1/exercises/opengl/CMakeFiles/opengl.dir
+F:/Daten/Programmieren/Computer-Grafik/task1/exercises/raytracer/CMakeFiles/raytracer.dir
+F:/Daten/Programmieren/Computer-Grafik/task1/exercises/raytracer_task1/CMakeFiles/raytracer_task1.dir
+F:/Daten/Programmieren/Computer-Grafik/task1/exercises/raytracer_test/CMakeFiles/raytracer_test.dir

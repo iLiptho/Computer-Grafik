@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\Daten\Programmieren\Computer-Grafik\rar\task1\exercises\opengl\Math.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Daten\Programmieren\Computer-Grafik\rar\task1\exercises\opengl\RaytracerWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\Daten\Programmieren\Computer-Grafik\rar\task1\exercises\opengl\Math.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Daten\Programmieren\Computer-Grafik\rar\task1\exercises\opengl\OpenGL.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Daten\Programmieren\Computer-Grafik\rar\task1\exercises\opengl\openglConfig.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Daten\Programmieren\Computer-Grafik\rar\task1\exercises\opengl\RaytracerWindow.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\Daten\Programmieren\Computer-Grafik\rar\task1\exercises\opengl\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{603CDC75-DF8F-36E1-A502-993260438AC5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C7C3E147-F393-3672-ABB3-AF2D7ECAB8B7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
